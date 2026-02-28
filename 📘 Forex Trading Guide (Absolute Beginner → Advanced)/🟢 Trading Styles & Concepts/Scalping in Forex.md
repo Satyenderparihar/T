@@ -1,0 +1,2 @@
+# Scalping in Forex
+

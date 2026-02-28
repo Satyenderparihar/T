@@ -1,0 +1,2 @@
+# Global Depository Receipt (GDR)
+

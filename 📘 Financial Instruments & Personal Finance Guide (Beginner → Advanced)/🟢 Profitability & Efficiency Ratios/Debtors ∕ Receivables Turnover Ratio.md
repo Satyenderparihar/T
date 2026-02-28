@@ -1,0 +1,2 @@
+# Debtors / Receivables Turnover Ratio
+
