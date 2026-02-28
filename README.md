@@ -122,6 +122,20 @@ If you find this course helpful:
 
 ---
 
+## 👥 Join the Community & Updates
+Want to get daily market updates, setup analysis, and discuss trends?
+Join our community:
+- 📱 [**Join our Telegram Channel**](https://t.me/YOUR_LINK_HERE) *(Update this link)*
+
+---
+
+## 📢 Share this Course
+If this course is helping you, please share it with your friends and help them become financially independent too!
+- 🟩 [**Share on WhatsApp**](https://api.whatsapp.com/send?text=Check%20out%20this%20amazing%20100%25%20FREE%20Stock%20Market%20%26%20Trading%20Course!%20%0A%0Ahttps://github.com/Satyenderparihar/Trading-Wala-Guru)
+- 🩵 [**Share on Twitter / X**](https://twitter.com/intent/tweet?text=Check%20out%20this%20100%25%20Free%20Trading%20Course%20Repo!%0Ahttps://github.com/Satyenderparihar/Trading-Wala-Guru)
+
+---
+
 ## 🤝 Contributing
 Found a typo, want to add a new concept, or have a suggestion? Contributions are highly welcome!
 1. Fork the Project
