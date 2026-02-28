@@ -1,5 +1,15 @@
 # 📘 Trading Wala Guru
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Course-100%25%20Free-success?style=for-the-badge&logo=appveyor" alt="100% Free">
+  <img src="https://img.shields.io/badge/Difficulty-Beginner%20to%20Pro-blue?style=for-the-badge" alt="Beginner to Pro">
+  <img src="https://img.shields.io/badge/Language-Hindi%20%2F%20English-orange?style=for-the-badge" alt="Language">
+  <img src="https://img.shields.io/badge/Modules-12%20Detailed%20Guides-purple?style=for-the-badge" alt="Modules">
+  <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License MIT">
+</div>
+
+<br/>
+
 Welcome to **Trading Wala Guru** – Your Complete Financial Education Platform! 🚀
 
 This repository is a structured, step-by-step guide to mastering the Stock Market, Personal Finance, Trading, and Investment strategies. Whether you are an absolute beginner or an advanced trader, this course is designed to take you from the basics of the financial world to advanced trading concepts in a highly organized way.
@@ -33,6 +43,19 @@ The course is divided into chronological modules for easy learning. Click on any
 
 ---
 
+## 🙋‍♂️ FAQ (Frequently Asked Questions)
+
+**Q: Is this course really 100% free?**  
+**A:** Yes! The entire repository is free and open-source for community learning.
+
+**Q: I am completely new to Trading. Where do I start?**  
+**A:** Simply go to the `01 📘 Stock Market` folder, open the `01 - 📘 Stock Market की ABCD` folder, and read the Markdown files in order. Take it one step at a time!
+
+**Q: Do I need any paid software to learn this?**  
+**A:** Not at all. You can read these guides locally on your computer or directly on GitHub via your phone browser.
+
+---
+
 ## 🎓 Prerequisites (Before You Start)
 You do not need a background in finance to get started. Just bring:
 - A notebook and pen for taking notes.
@@ -58,4 +81,8 @@ Found a typo, want to add a new concept, or have a suggestion? Contributions are
 
 ---
 
+## 📄 License
+This educational material is distributed under the **MIT License**. You are free to read, learn from, and share this repository, provided proper credit is given.
+
+---
 *Happy Learning and Happy Trading! 📈 Let's grow wealth, together.*
