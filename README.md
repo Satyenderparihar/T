@@ -12,7 +12,13 @@
 
 Welcome to **Trading Wala Guru** – Your Complete Financial Education Platform! 🚀
 
-This repository is a structured, step-by-step guide to mastering the Stock Market, Personal Finance, Trading, and Investment strategies. Whether you are an absolute beginner or an advanced trader, this course is designed to take you from the basics of the financial world to advanced trading concepts in a highly organized way.
+This repository is a structured, step-by-step guide to mastering the Stock Market, Personal Finance, Trading, and Investment strategies. Why pay ₹50,000 for a course when you can learn real trading, fundamentally and technically, absolutely free?
+
+---
+
+## 🗺️ Learning Roadmap (How to Progress)
+Follow this path to become a pro trader:
+> **`Stock Market Basics`** ➔ **`Demat Account Opening`** ➔ **`Trading Mechanics & Charts`** ➔ **`Derivatives (Options)`** ➔ **`Taxation & Personal Finance`**
 
 ---
 
@@ -29,7 +35,7 @@ After completing this complete course, you will be able to:
 
 The course is divided into chronological modules for easy learning. Click on any module to start reading:
 
-1. [**📈 Stock Market Basic to Advanced**](./01%20📘%20Stock%20Market)
+1. [**�� Stock Market Basic to Advanced**](./01%20📘%20Stock%20Market)
 2. [**💱 Forex Trading Guide**](./02%20📘%20Forex%20Trading%20Guide%20(Absolute%20Beginner%20→%20Advanced))
 3. [**🏦 Demat Account Guide**](./03%20📘%20Demat%20Account%20Guide%20(Absolute%20Beginner%20→%20Advanced))
 4. [**💳 Banking, Payments & Credit Score**](./04%20📘%20Banking,%20Payments%20&%20Credit%20Score%20Guide%20(India))
@@ -38,16 +44,36 @@ The course is divided into chronological modules for easy learning. Click on any
 7. [**📊 ETF Guide**](./07%20📘%20ETF%20Guide%20(Absolute%20Beginner%20→%20Advanced))
 8. [**📉 Derivatives & Options Trading**](./08%20📘%20Derivatives%20&%20Options%20Trading%20Guide%20(Beginner%20→%20Expert))
 9. [**🛢 Commodity Market Guide**](./09%20📘%20Commodity%20Market%20Guide%20(Absolute%20Beginner%20→%20Advanced))
-10. [**�� Taxation & Compliance Guide (India)**](./10%20📘%20Taxation%20&%20Compliance%20Guide%20(India)%20–%20Beginner%20→%20Advanced)
+10. [**🏛 Taxation & Compliance Guide (India)**](./10%20📘%20Taxation%20&%20Compliance%20Guide%20(India)%20–%20Beginner%20→%20Advanced)
 11. [**📅 Trading & Settlement Holidays Guide**](./11%20📘%20Trading%20&%20Settlement%20Holidays%20Guide)
 12. [**🛡 Insurance Guide (India)**](./12%20📘%20Insurance%20Guide%20(India)%20–%20Beginner%20→%20Practical%20Understanding)
 
 ---
 
+## 🌐 External Learning Resources & Platforms
+Apart from this course, here are some external free tools, articles, and websites every trader must bookmark:
+- **Comprehensive Stock Guide:** [5paisa Hindi Share Market Guide](https://www.5paisa.com/hindi/stock-market-guide/stock-share-market) *(Highly Recommended Article)*
+- **Data & Corporate Actions:** NSE India (`nseindia.com`) / BSE India (`bseindia.com`)
+- **Charting Software:** TradingView (`tradingview.com`) / ChartInk (`chartink.com`)
+- **Fundamental Screener:** Screener.in (`screener.in`) / Tickertape (`tickertape.in`)
+- **Options Analysis:** Sensibull (`sensibull.com`) / Opstra (`opstra.definedge.com`)
+
+---
+
 ## 🌟 Key Features
 - **Beginner Friendly:** Concepts are explained in simple, easy-to-understand language.
-- **Chronologically Organized:** All folders and topics share a `01, 02..` numbering, guiding you to learn in the correct, proper sequence.
+- **Chronologically Organized:** All folders and topics share a `01, 02..` numbering, guiding you to learn in the correct sequence.
 - **Practical & Actionable:** Contains real-world examples, pro-tips, and psychological advice.
+
+---
+
+## 📝 Progress Tracker (For You)
+If you fork/copy this repository, you can use checkboxes below to track your learning journey:
+- [ ] Read Module 01 (Stock Market ABCD)
+- [ ] Understand Charts & Technical Analysis
+- [ ] Open a Demat Account
+- [ ] Place Your First Equity Delivery Trade
+- [ ] Learn Taxation and Insurance Basics
 
 ---
 
