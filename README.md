@@ -5,10 +5,15 @@
   <img src="https://img.shields.io/badge/Difficulty-Beginner%20to%20Pro-blue?style=for-the-badge" alt="Beginner to Pro">
   <img src="https://img.shields.io/badge/Language-Hindi%20%2F%20English-orange?style=for-the-badge" alt="Language">
   <img src="https://img.shields.io/badge/Modules-12%20Detailed%20Guides-purple?style=for-the-badge" alt="Modules">
+  <img src="https://img.shields.io/badge/Content-880%2B%20Lessons-red?style=for-the-badge" alt="Lessons">
   <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License MIT">
 </div>
 
 <br/>
+
+<div align="center">
+  <h3>🔥 The ultimate, no-nonsense repository to master the Indian Stock Market and Personal Finance.</h3>
+</div>
 
 Welcome to **Trading Wala Guru** – Your Complete Financial Education Platform! 🚀
 
@@ -16,9 +21,16 @@ This repository is a structured, step-by-step guide to mastering the Stock Marke
 
 ---
 
+## 📊 Course Statistics
+- 📂 **12 Core Modules** covering everything from basic accounting to advanced options trading.
+- 📄 **881 In-depth Markdown Lessons** built to answer every possible doubt.
+- 📈 **100+ Proven Concept Explanations**
+
+---
+
 ## 🗺️ Learning Roadmap (How to Progress)
-Follow this path to become a pro trader:
-> **`Stock Market Basics`** ➔ **`Demat Account Opening`** ➔ **`Trading Mechanics & Charts`** ➔ **`Derivatives (Options)`** ➔ **`Taxation & Personal Finance`**
+Follow this precise timeline to transition from a beginner to an expert trader:
+> **`1. Stock Market Basics`** ➔ **`2. Demat Account Opening`** ➔ **`3. Trading Mechanics & Charts`** ➔ **`4. Forex & Commodities`** ➔ **`5. Derivatives (Options)`** ➔ **`6. Taxation & Personal Finance`**
 
 ---
 
@@ -35,12 +47,12 @@ After completing this complete course, you will be able to:
 
 The course is divided into chronological modules for easy learning. Click on any module to start reading:
 
-1. [**�� Stock Market Basic to Advanced**](./01%20📘%20Stock%20Market)
+1. [**📈 Stock Market Basic to Advanced**](./01%20📘%20Stock%20Market)
 2. [**💱 Forex Trading Guide**](./02%20📘%20Forex%20Trading%20Guide%20(Absolute%20Beginner%20→%20Advanced))
 3. [**🏦 Demat Account Guide**](./03%20📘%20Demat%20Account%20Guide%20(Absolute%20Beginner%20→%20Advanced))
 4. [**💳 Banking, Payments & Credit Score**](./04%20📘%20Banking,%20Payments%20&%20Credit%20Score%20Guide%20(India))
 5. [**💰 Financial Instruments & Personal Finance**](./05%20📘%20Financial%20Instruments%20&%20Personal%20Finance%20Guide%20(Beginner%20→%20Advanced))
-6. [**🚀 IPO Guide**](./06%20📘%20IPO%20Guide%20(Absolute%20Beginner%20→%20Advanced))
+6. [**🚀 IPO Guide**](./06%20��%20IPO%20Guide%20(Absolute%20Beginner%20→%20Advanced))
 7. [**📊 ETF Guide**](./07%20📘%20ETF%20Guide%20(Absolute%20Beginner%20→%20Advanced))
 8. [**📉 Derivatives & Options Trading**](./08%20📘%20Derivatives%20&%20Options%20Trading%20Guide%20(Beginner%20→%20Expert))
 9. [**🛢 Commodity Market Guide**](./09%20📘%20Commodity%20Market%20Guide%20(Absolute%20Beginner%20→%20Advanced))
@@ -74,6 +86,7 @@ If you fork/copy this repository, you can use checkboxes below to track your lea
 - [ ] Open a Demat Account
 - [ ] Place Your First Equity Delivery Trade
 - [ ] Learn Taxation and Insurance Basics
+- [ ] **Next up:** Stay disciplined!
 
 ---
 
@@ -113,15 +126,6 @@ The author is **not a SEBI Registered Investment Advisor**. The concepts, exampl
 
 ---
 
-## 👤 About the Author / Connect
-Created with passion by **Satyender Parihar** (Trader, Investor & Educator).
-
-If you find this course helpful:
-- **Star** (⭐) the repository at the top right of this page!
-- *Add your social links here, e.g., YouTube / Telegram by editing this line*
-
----
-
 ## 👥 Join the Community & Updates
 Want to get daily market updates, setup analysis, and discuss trends?
 Join our community:
@@ -133,6 +137,21 @@ Join our community:
 If this course is helping you, please share it with your friends and help them become financially independent too!
 - 🟩 [**Share on WhatsApp**](https://api.whatsapp.com/send?text=Check%20out%20this%20amazing%20100%25%20FREE%20Stock%20Market%20%26%20Trading%20Course!%20%0A%0Ahttps://github.com/Satyenderparihar/Trading-Wala-Guru)
 - 🩵 [**Share on Twitter / X**](https://twitter.com/intent/tweet?text=Check%20out%20this%20100%25%20Free%20Trading%20Course%20Repo!%0Ahttps://github.com/Satyenderparihar/Trading-Wala-Guru)
+
+---
+
+## ☕ Support the Author
+If you learned something new today and saved thousands of rupees on a paid course, consider supporting the creator:
+- [**Buy Me A Coffee**](#) *(Link coming soon)*
+
+---
+
+## 👤 About the Author / Connect
+Created with passion by **Satyender Parihar** (Trader, Investor & Educator).
+
+If you find this course helpful:
+- **Star** (⭐) the repository at the top right of this page!
+- *Add your social links here, e.g., YouTube / Telegram by editing this line*
 
 ---
 
