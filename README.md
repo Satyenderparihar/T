@@ -16,6 +16,15 @@ This repository is a structured, step-by-step guide to mastering the Stock Marke
 
 ---
 
+## 🎯 What You Will Learn (Highlights)
+After completing this complete course, you will be able to:
+- ✅ **Pick the right stocks:** Evaluate companies fundamentally without relying on paid tip providers.
+- ✅ **Master the Charts:** Read charts, candlesticks, and understand advanced Technical Analysis.
+- ✅ **Trade F&O Safely:** Understand the reality and high-level strategies of Futures & Options.
+- ✅ **Build Generational Wealth:** Manage your personal finance, insurance, and taxes like a pro.
+
+---
+
 ## 📚 Course Modules (Click to Open)
 
 The course is divided into chronological modules for easy learning. Click on any module to start reading:
@@ -29,7 +38,7 @@ The course is divided into chronological modules for easy learning. Click on any
 7. [**📊 ETF Guide**](./07%20📘%20ETF%20Guide%20(Absolute%20Beginner%20→%20Advanced))
 8. [**📉 Derivatives & Options Trading**](./08%20📘%20Derivatives%20&%20Options%20Trading%20Guide%20(Beginner%20→%20Expert))
 9. [**🛢 Commodity Market Guide**](./09%20📘%20Commodity%20Market%20Guide%20(Absolute%20Beginner%20→%20Advanced))
-10. [**🏛 Taxation & Compliance Guide (India)**](./10%20📘%20Taxation%20&%20Compliance%20Guide%20(India)%20–%20Beginner%20→%20Advanced)
+10. [**�� Taxation & Compliance Guide (India)**](./10%20📘%20Taxation%20&%20Compliance%20Guide%20(India)%20–%20Beginner%20→%20Advanced)
 11. [**📅 Trading & Settlement Holidays Guide**](./11%20📘%20Trading%20&%20Settlement%20Holidays%20Guide)
 12. [**🛡 Insurance Guide (India)**](./12%20📘%20Insurance%20Guide%20(India)%20–%20Beginner%20→%20Practical%20Understanding)
 
@@ -39,7 +48,14 @@ The course is divided into chronological modules for easy learning. Click on any
 - **Beginner Friendly:** Concepts are explained in simple, easy-to-understand language.
 - **Chronologically Organized:** All folders and topics share a `01, 02..` numbering, guiding you to learn in the correct, proper sequence.
 - **Practical & Actionable:** Contains real-world examples, pro-tips, and psychological advice.
-- **Comprehensive Coverage:** From your first share purchase to complex F&O strategies and filing taxes.
+
+---
+
+## 💡 How to Read This Course? (Pro Tip)
+Since this repository contains over 880+ educational files, a beginner might feel overwhelmed! 
+- **Don't rush it:** Try reading only 2-3 topics (Markdown files) per day.
+- **Take notes:** Keep a diary while reading.
+- **Practice Live:** Apply whatever you read (like a Candlestick pattern) on live market charts.
 
 ---
 
@@ -68,6 +84,15 @@ You do not need a background in finance to get started. Just bring:
 ## ⚠️ Disclaimer
 **This repository is strictly for educational purposes only.** 
 The author is **not a SEBI Registered Investment Advisor**. The concepts, examples, and strategies discussed here are not financial advice. Trading in the Stock Market, Forex, F&O, and Commodities involves a high degree of risk and can result in the loss of your capital. Please consult a qualified financial advisor before making any investment or trading decisions.
+
+---
+
+## 👤 About the Author / Connect
+Created with passion by **Satyender Parihar** (Trader, Investor & Educator).
+
+If you find this course helpful:
+- **Star** (⭐) the repository at the top right of this page!
+- *Add your social links here, e.g., YouTube / Telegram by editing this line*
 
 ---
 
